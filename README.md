@@ -6,7 +6,7 @@ This is a simple web application that displays a random quote and its author. It
 
 1.  Clone this repository.
     
-2.  Install any dependencies using a package manager like npm (if any).
+2.  Install any dependencies using a package manager like npm .
     
 3.  Open the index.html file in your web browser.
     
